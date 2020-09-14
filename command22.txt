@@ -1,0 +1,4 @@
+sort difficulty decreasing
+add pos:2 problem_id:297985, problem_name:Unknown, difficulty:Medium
+remove difficulty:Medium
+add pos:4 problem_id:267101, problem_name:Remove Duplicates from Sorted List II, difficulty:Medium
